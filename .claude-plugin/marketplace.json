@@ -1,0 +1,5 @@
+{
+  "name": "rainy-forest-backdrop",
+  "owner": { "name": "MegaJayden1" },
+  "plugins": [{ "name": "rain-watcher", "source": "./" }]
+}

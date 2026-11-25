@@ -1,0 +1,1 @@
+{ "name": "rain-watcher", "version": "0.1.0", "description": "Rainy pine forest backdrop: gentle rain when idle, a thunderstorm while Claude works", "types": "./types/index.d.ts" }
